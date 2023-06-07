@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ntsika-code
+- 👋 Hi, I’m @Ntsika Nkanunu
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science at Varsity College in South Africa
 - 💞️ I’m looking to collaborate on any application projects to boost my skills.
 - 📫 How to reach me, you can reach through my email: ntsika.nkaunu@gmail.com
 
